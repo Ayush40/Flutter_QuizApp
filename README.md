@@ -1,6 +1,6 @@
- Flutter Quiz App
+Flutter Quiz App
 
-##  Quiz App
+## Quiz App
 
 This is a Flutter quiz app that allows users to test their knowledge on flutter topics. It's a fun and interactive way to learn new things!
 
@@ -9,7 +9,8 @@ This is a Flutter quiz app that allows users to test their knowledge on flutter 
 - Multiple-choice questions
 - Smooth Animation
 
-##Screenshots:
+## Screenshots:
+
 ![image](https://github.com/AishwaryaAtWork/CryptoPulse/assets/100126332/03cb85b2-6725-4a29-bba5-0e92792215f3)
 
 ## How to Use:
@@ -20,9 +21,11 @@ This is a Flutter quiz app that allows users to test their knowledge on flutter 
 - Run the app on an emulator or physical device using flutter run.
 
 ## Contributing:
+
 Contributions are welcome! If you find any issues or have ideas to enhance the app, feel free to open an issue or submit a pull request.
 
 ## Disclaimer:
+
 This app is intended for recreational purposes and does not encourage or support gambling in any form. The results of the dice rolling are random and for entertainment purposes only.
 
-Enjoy the Flutter quiz App! 
+Enjoy the Flutter quiz App!
